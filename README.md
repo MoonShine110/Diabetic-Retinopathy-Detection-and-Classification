@@ -1,6 +1,6 @@
-# Diabetic-Retinopathy-Detection-and-Classification
+# Diabetic-Retinopathy-Detection-and-Classification 
 
-## Diabetic Retinopathy Detection and Classification Using EfficientNet-B3 model
+## Diabetic Retinopathy Detection and Classification Using EfficientNet-B3 model (Project expo 2k23 winner Dayananda Sagar University)
 
 - [Link to the IEEE Journal](https://ieeexplore.ieee.org/document/10169756)
 - [Link to the dataset (source: Kaggle)](https://www.kaggle.com/datasets/stefankrsteski/diabetic-retinopathy) 
