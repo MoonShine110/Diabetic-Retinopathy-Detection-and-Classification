@@ -25,18 +25,19 @@ DR: Diabetic Retinopathy
 - 4: Proliferate_DR
 
 **Features to Consider**
+[Image Source:Nera](https://www.retinamd.com/retinal-conditions-and-diseases/diabetic-retinopathy/)
 
 - The presence of yellow "flakes", is caused due to the leaking of substances like proteins and lipids into the visceral fluid inside the eye.
-  ![Yellow Flakes Image](assets/158290511/67b2f669-4b6b-456b-a087-12e7aaa2b276)
+  
 
 - Red dots (microaneurysms) are present in the eye and are mainly caused due to blood clots occurring due to damaged blood vessels.
-  ![Red Dots Image](assets/158290511/958545c4-d982-458c-acb4-83af98d3c339)
+  
 
 - An increase in blood vessels is also observed as the already existing blood vessels get blocked and hence the oxygen supply to all parts of the eye is hindered. Therefore, new blood vessels are formed to recover from the lack of oxygen.
-  ![Blood Vessels Image](assets/158290511/fdc36f89-0a0e-4b21-98b1-9226b68848f8)
+  
 
 For the training of the model, we will be using the EfficientNet model, it is a transfer learning model. It can perform a wide variety of image classification tasks and is based on the CNN architecture. It outperforms the existing CNNs in terms of accuracy and efficiency. The model achieves cutting-edge performance while being extremely efficient in terms of both computational resources and parameter count. It accomplishes this by employing a compound scaling method that optimizes the neural network's balance of depth, width, and resolution, allowing it to achieve high accuracy with fewer computational resources than other models of comparable performance.
 
 **Model Architecture**
 
-![Model Architecture Image](assets/158290511/c00fab54-cca7-4161-9a1d-e4175a74db78)
+![Model Architecture Image](https://github.com/MoonShine110/Diabetic-Retinopathy-Detection-and-Classification/blob/main/Model_Architecture/Model_architecture.PNG)
