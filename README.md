@@ -26,6 +26,8 @@ DR: Diabetic Retinopathy
 
 **Features to Consider**
 [Image Source:Nera](https://www.retinamd.com/retinal-conditions-and-diseases/diabetic-retinopathy/)
+![image](https://github.com/MoonShine110/Diabetic-Retinopathy-Detection-and-Classification/assets/158290511/bf105749-2ee1-4ab8-af05-cdf4ee59f3ba)
+
 
 - The presence of yellow "flakes", is caused due to the leaking of substances like proteins and lipids into the visceral fluid inside the eye.
   
